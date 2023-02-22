@@ -16,7 +16,7 @@
   "dependencies": {
     "@kiwicom/orbit-components": "*",
     "@kiwicom/orbit-design-tokens": "*",
-    "@types/react": "^17.0.26",
+    "@types/react": "^17.0.53",
     "copy-to-clipboard": "^3.3.1",
     "deep-object-diff": "^1.1.9",
     "object-hash": "^3.0.0",
